@@ -1,11 +1,11 @@
-// class Car {
-//   private make: string = "Nissan";
+class Car {
+  private make: string = "Nissan";
 
-//   getMake(): string {
-//     return this.make;
-//   }
-// }
+  getMake(): string {
+    return this.make;
+  }
+}
 
-// const myCar = new Car();
+const myCar = new Car();
 
-// console.log(myCar.getMake());
+console.log(myCar.getMake());

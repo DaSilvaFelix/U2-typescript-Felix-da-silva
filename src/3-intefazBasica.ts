@@ -1,11 +1,11 @@
-// interface Person {
-//   firsName: string;
-//   lastName: string;
-// }
+interface Person {
+  firsName: string;
+  lastName: string;
+}
 
-// const myPerson: Person = {
-//   firsName: "Felix",
-//   lastName: "da Silva",
-// };
+const myPerson: Person = {
+  firsName: "Felix",
+  lastName: "da Silva",
+};
 
-// console.log(myPerson);
+console.log(myPerson);
